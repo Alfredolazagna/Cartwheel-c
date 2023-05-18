@@ -1,2 +1,2 @@
 # Cartwheel-c
-depository for group Cartwheel-c for phys 141 Spring 23
+Simulating the Cartwheel galaxy collision for Phys 141 Spr23 
